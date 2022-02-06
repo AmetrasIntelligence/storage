@@ -1,3 +1,4 @@
 # See https://github.com/OCA/odoo-community.org/blob/master/website/Contribution/CONTRIBUTING.rst#oca_dependencies-txt
 connector https://github.com/AmetrasIntelligence/connector.git 13.0
 server-env https://github.com/AmetrasIntelligence/server-env.git 13.0
+brand
