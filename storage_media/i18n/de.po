@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_media/i18n/storage_media.pot\n"
 "X-Crowdin-File-ID: 6564\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:06\n"
+"PO-Revision-Date: 2022-08-07 00:03\n"
 
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__active
@@ -29,7 +29,7 @@ msgstr ""
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media_type__code
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__company_id
