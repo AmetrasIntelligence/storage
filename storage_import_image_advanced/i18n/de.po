@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_import_image_advanced/i18n/shopinvader_import_image.pot\n"
 "X-Crowdin-File-ID: 6550\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-12 13:07\n"
+"PO-Revision-Date: 2022-08-17 16:22\n"
 
 #. module: shopinvader_import_image
 #: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__file_csv
@@ -65,7 +65,7 @@ msgstr "Anzeigename"
 #. module: shopinvader_import_image
 #: model:ir.model.fields.selection,name:shopinvader_import_image.selection__shopinvader_import_product_image__state__done
 msgid "Done"
-msgstr ""
+msgstr "Erledigt"
 
 #. module: shopinvader_import_image
 #: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__done_on
