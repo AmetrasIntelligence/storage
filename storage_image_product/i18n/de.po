@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_image_product/i18n/storage_image_product.pot\n"
 "X-Crowdin-File-ID: 6536\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 15:21\n"
+"PO-Revision-Date: 2022-10-05 13:29\n"
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_image_tag__apply_on
 msgid "Apply On"
-msgstr ""
+msgstr "Anwenden auf"
 
 #. module: storage_image_product
 #: model_terms:ir.ui.view,arch_db:storage_image_product.product_category_image_relation_form
