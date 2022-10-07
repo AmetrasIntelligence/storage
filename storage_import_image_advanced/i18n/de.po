@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_import_image_advanced/i18n/storage_import_image_advanced.pot\n"
 "X-Crowdin-File-ID: 6558\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-06 07:47\n"
+"PO-Revision-Date: 2022-10-07 05:53\n"
 
 #. module: storage_import_image_advanced
 #: code:addons/storage_import_image_advanced/models/import_image.py:0
@@ -66,7 +66,7 @@ msgstr "Erstellt am"
 #. module: storage_import_image_advanced
 #: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_form_view
 msgid "Destination"
-msgstr ""
+msgstr "Ziel"
 
 #. module: storage_import_image_advanced
 #: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__display_name
