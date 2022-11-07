@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_backend_ftp/i18n/storage_backend_ftp.pot\n"
 "X-Crowdin-File-ID: 6502\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:07\n"
+"PO-Revision-Date: 2022-11-07 18:04\n"
 
 #. module: storage_backend_ftp
 #: model:ir.model.fields,field_description:storage_backend_ftp.field_storage_backend__backend_type
 msgid "Backend Type"
-msgstr ""
+msgstr "Backend Typ"
 
 #. module: storage_backend_ftp
 #: model:ir.model.fields.selection,name:storage_backend_ftp.selection__storage_backend__backend_type__ftp
