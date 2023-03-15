@@ -11,325 +11,260 @@ msgstr ""
 "X-Crowdin-Project: ametras-xsolutions\n"
 "X-Crowdin-Project-ID: 530964\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_import_image_advanced/i18n/storage_import_image_advanced.pot\n"
-"X-Crowdin-File-ID: 6558\n"
+"X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_import_image_advanced/i18n/shopinvader_import_image.pot\n"
+"X-Crowdin-File-ID: 6550\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-03-15 11:05\n"
+"PO-Revision-Date: 2023-03-15 14:47\n"
 
-#. module: storage_import_image_advanced
-#: code:addons/storage_import_image_advanced/models/import_image.py:0
-#, python-format
-msgid "CSV Schema Incompatible"
-msgstr ""
-
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__file_csv
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__file_csv
 msgid "CSV file"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__csv_delimiter
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__csv_delimiter
 msgid "CSV file delimiter"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__chunk_size
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__csv_header
+msgid "CSV file header"
+msgstr ""
+
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__chunk_size
 msgid "Chunk Size"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_form_view
-msgid "Column Mapping"
-msgstr ""
-
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__create_missing_tags
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__create_missing_tags
 msgid "Create Missing Tags"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: code:addons/storage_import_image_advanced/models/import_image.py:0
+#. module: shopinvader_import_image
+#: code:addons/shopinvader_import_image/models/import_image.py:0
 #, python-format
 msgid "Created"
 msgstr "Angelegt"
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__create_uid
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__create_uid
 msgid "Created by"
 msgstr "Erstellt von"
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__create_date
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__create_date
 msgid "Created on"
 msgstr "Erstellt am"
 
-#. module: storage_import_image_advanced
-#: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_form_view
-msgid "Destination"
-msgstr "Destination"
-
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__display_name
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__display_name
 msgid "Display Name"
 msgstr "Anzeigename"
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields.selection,name:storage_import_image_advanced.selection__storage_import_product_image__state__done
+#. module: shopinvader_import_image
+#: model:ir.model.fields.selection,name:shopinvader_import_image.selection__shopinvader_import_product_image__state__done
 msgid "Done"
 msgstr "Erledigt"
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__done_on
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__done_on
 msgid "Done On"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields.selection,name:storage_import_image_advanced.selection__storage_import_product_image__source_type__external_storage
+#. module: shopinvader_import_image
+#: model:ir.model.fields.selection,name:shopinvader_import_image.selection__shopinvader_import_product_image__source_type__external_storage
 msgid "External storage"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_form_view
-msgid "File Path"
-msgstr "Dateipfad"
-
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__filename
-msgid "Filename"
+#. module: shopinvader_import_image
+#: model:ir.model,name:shopinvader_import_image.model_shopinvader_import_product_image
+msgid "Handle import of shopinvader product images"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__filename_zip
-msgid "Filename Zip"
-msgstr ""
-
-#. module: storage_import_image_advanced
-#: model:ir.model,name:storage_import_image_advanced.model_storage_import_product_image
-msgid "Handle import of storage product images"
-msgstr ""
-
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,help:storage_import_image_advanced.field_storage_import_product_image__chunk_size
+#. module: shopinvader_import_image
+#: model:ir.model.fields,help:shopinvader_import_image.field_shopinvader_import_product_image__chunk_size
 msgid "How many lines will be handled in each job."
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__id
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__id
 msgid "ID"
 msgstr "ID"
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__csv_column_tag_name
-msgid "Image Tag Name column"
-msgstr ""
-
-#. module: storage_import_image_advanced
-#: code:addons/storage_import_image_advanced/models/import_image.py:0
+#. module: shopinvader_import_image
+#: code:addons/shopinvader_import_image/models/import_image.py:0
 #, python-format
 msgid "Image file not found"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__csv_column_file_path
-msgid "Image file path column"
-msgstr ""
-
-#. module: storage_import_image_advanced
-#: model:ir.actions.act_window,name:storage_import_image_advanced.import_image_action
+#. module: shopinvader_import_image
+#: model:ir.actions.act_window,name:shopinvader_import_image.import_image_action
 msgid "Import Product Image"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_form_view
+#. module: shopinvader_import_image
+#: model_terms:ir.ui.view,arch_db:shopinvader_import_image.product_import_image_form_view
 msgid "Import images"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_form_view
+#. module: shopinvader_import_image
+#: model_terms:ir.ui.view,arch_db:shopinvader_import_image.product_import_image_form_view
 msgid "Import images again"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.ui.menu,name:storage_import_image_advanced.menu_sale_storage_image_import
+#. module: shopinvader_import_image
+#: model:ir.ui.menu,name:shopinvader_import_image.menu_backend_shopinvader_image_import
+#: model:ir.ui.menu,name:shopinvader_import_image.menu_sale_shopinvader_image_import
 msgid "Import product images"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__state
+#. module: shopinvader_import_image
+#: model_terms:ir.ui.view,arch_db:shopinvader_import_image.product_import_image_form_view
+#: model_terms:ir.ui.view,arch_db:shopinvader_import_image.product_import_image_tree_view
+msgid "Import shopinvader product images"
+msgstr ""
+
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__state
 msgid "Import state"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_form_view
-#: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_tree_view
-msgid "Import storage product images"
+#. module: shopinvader_import_image
+#: code:addons/shopinvader_import_image/models/import_image.py:0
+#, python-format
+msgid "Invalid CSV file headers found! Expected: %s"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image____last_update
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image____last_update
 msgid "Last Modified on"
 msgstr "Zuletzt geändert am"
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__write_uid
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__write_uid
 msgid "Last Updated by"
 msgstr "Zuletzt aktualisiert von"
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__write_date
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__write_date
 msgid "Last Updated on"
 msgstr "Zuletzt aktualisiert am"
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields.selection,name:storage_import_image_advanced.selection__storage_import_product_image__state__new
+#. module: shopinvader_import_image
+#: model:ir.model.fields.selection,name:shopinvader_import_image.selection__shopinvader_import_product_image__state__new
 msgid "New"
 msgstr "Neu"
 
-#. module: storage_import_image_advanced
-#: code:addons/storage_import_image_advanced/models/import_image.py:0
+#. module: shopinvader_import_image
+#: code:addons/shopinvader_import_image/models/import_image.py:0
 #, python-format
 msgid "No storage backend provided!"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: code:addons/storage_import_image_advanced/models/import_image.py:0
+#. module: shopinvader_import_image
+#: code:addons/shopinvader_import_image/models/import_image.py:0
 #, python-format
 msgid "No zip file provided!"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__options
-#: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_form_view
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__options
 msgid "Options"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__overwrite
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__overwrite
 msgid "Overwrite image with same name"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__external_csv_path
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__external_csv_path
 msgid "Path to CSV file"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__product_model
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__product_model
 msgid "Product Model"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_form_view
-msgid "Product Reference"
-msgstr "Produktreferenz"
-
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__csv_column_default_code
-msgid "Product Reference column"
-msgstr ""
-
-#. module: storage_import_image_advanced
-#: code:addons/storage_import_image_advanced/models/import_image.py:0
+#. module: shopinvader_import_image
+#: code:addons/shopinvader_import_image/models/import_image.py:0
 #, python-format
 msgid "Product not found"
 msgstr "Produkt nicht gefunden"
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields.selection,name:storage_import_image_advanced.selection__storage_import_product_image__product_model__product_template
+#. module: shopinvader_import_image
+#: model:ir.model.fields.selection,name:shopinvader_import_image.selection__shopinvader_import_product_image__product_model__product_template
 msgid "Product template"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields.selection,name:storage_import_image_advanced.selection__storage_import_product_image__product_model__product_product
+#. module: shopinvader_import_image
+#: model:ir.model.fields.selection,name:shopinvader_import_image.selection__shopinvader_import_product_image__product_model__product_product
 msgid "Product variants"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,help:storage_import_image_advanced.field_storage_import_product_image__external_csv_path
+#. module: shopinvader_import_image
+#: model:ir.model.fields,help:shopinvader_import_image.field_shopinvader_import_product_image__external_csv_path
 msgid "Relative path of the CSV file located in the external storage"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__report
-#: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_form_view
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__report
+#: model_terms:ir.ui.view,arch_db:shopinvader_import_image.product_import_image_form_view
 msgid "Report"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__report_html
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__report_html
 msgid "Report Html"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields.selection,name:storage_import_image_advanced.selection__storage_import_product_image__state__scheduled
+#. module: shopinvader_import_image
+#: model:ir.model.fields.selection,name:shopinvader_import_image.selection__shopinvader_import_product_image__state__scheduled
 msgid "Scheduled"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_form_view
-msgid "Source"
-msgstr "Herkunft"
+#. module: shopinvader_import_image
+#: model:ir.actions.server,name:shopinvader_import_image.ir_cron_import_images_cleanup_ir_actions_server
+#: model:ir.cron,cron_name:shopinvader_import_image.ir_cron_import_images_cleanup
+#: model:ir.cron,name:shopinvader_import_image.ir_cron_import_images_cleanup
+msgid "Shopinvader image imports cleanup"
+msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__source_type
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__source_type
 msgid "Source type"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__storage_backend_id
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__storage_backend_id
 msgid "Storage Backend"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__source_storage_backend_id
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__source_storage_backend_id
 msgid "Storage Backend with images"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.actions.server,name:storage_import_image_advanced.ir_cron_import_images_cleanup_ir_actions_server
-#: model:ir.cron,cron_name:storage_import_image_advanced.ir_cron_import_images_cleanup
-#: model:ir.cron,name:storage_import_image_advanced.ir_cron_import_images_cleanup
-msgid "Storage image imports cleanup"
-msgstr ""
-
-#. module: storage_import_image_advanced
-#: model_terms:ir.ui.view,arch_db:storage_import_image_advanced.product_import_image_form_view
-msgid "Tag Name"
-msgstr "Tag Name"
-
-#. module: storage_import_image_advanced
-#: code:addons/storage_import_image_advanced/models/import_image.py:0
+#. module: shopinvader_import_image
+#: code:addons/shopinvader_import_image/models/import_image.py:0
 #, python-format
 msgid "Tags not found"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,help:storage_import_image_advanced.field_storage_import_product_image__csv_column_file_path
-msgid "The CSV File column name that holds the image file path or url."
-msgstr ""
-
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,help:storage_import_image_advanced.field_storage_import_product_image__csv_column_tag_name
-msgid "The CSV File column name that holds the image tag name."
-msgstr ""
-
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,help:storage_import_image_advanced.field_storage_import_product_image__csv_column_default_code
-msgid "The CSV File column name that holds the product reference."
-msgstr ""
-
-#. module: storage_import_image_advanced
-#: model:ir.model.fields.selection,name:storage_import_image_advanced.selection__storage_import_product_image__source_type__url
+#. module: shopinvader_import_image
+#: model:ir.model.fields.selection,name:shopinvader_import_image.selection__shopinvader_import_product_image__source_type__url
 msgid "URL"
 msgstr "URL"
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields,field_description:storage_import_image_advanced.field_storage_import_product_image__source_zipfile
+#. module: shopinvader_import_image
+#: model:ir.model.fields,field_description:shopinvader_import_image.field_shopinvader_import_product_image__source_zipfile
 msgid "ZIP with images"
 msgstr ""
 
-#. module: storage_import_image_advanced
-#: model:ir.model.fields.selection,name:storage_import_image_advanced.selection__storage_import_product_image__source_type__zip_file
+#. module: shopinvader_import_image
+#: model:ir.model.fields.selection,name:shopinvader_import_image.selection__shopinvader_import_product_image__source_type__zip_file
 msgid "Zip file"
 msgstr ""
 
