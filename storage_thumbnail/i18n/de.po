@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_thumbnail/i18n/storage_thumbnail.pot\n"
 "X-Crowdin-File-ID: 6582\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-16 14:25\n"
+"PO-Revision-Date: 2023-05-15 15:32\n"
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__active
@@ -175,7 +175,7 @@ msgstr ""
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__backend_id
 msgid "Storage"
-msgstr ""
+msgstr "Lagerung"
 
 #. module: storage_thumbnail
 #: model:ir.model,name:storage_thumbnail.model_storage_file
