@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_backend_s3/i18n/storage_backend_s3.pot\n"
 "X-Crowdin-File-ID: 6510\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-11-07 18:04\n"
+"PO-Revision-Date: 2023-08-02 09:49\n"
 
 #. module: storage_backend_s3
 #: model:ir.model.fields,field_description:storage_backend_s3.field_storage_backend__aws_host
@@ -45,7 +45,7 @@ msgstr ""
 #. module: storage_backend_s3
 #: model:ir.model.fields,field_description:storage_backend_s3.field_storage_backend__backend_type
 msgid "Backend Type"
-msgstr "Backend Typ"
+msgstr ""
 
 #. module: storage_backend_s3
 #: model:ir.model.fields,field_description:storage_backend_s3.field_storage_backend__aws_bucket
