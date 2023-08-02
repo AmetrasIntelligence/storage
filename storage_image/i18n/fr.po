@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_image/i18n/storage_image.pot\n"
 "X-Crowdin-File-ID: 6530\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:07\n"
+"PO-Revision-Date: 2023-08-02 09:49\n"
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__active
 msgid "Active"
-msgstr "Actif"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__alt_name
@@ -34,7 +34,7 @@ msgstr ""
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__company_id
 msgid "Company"
-msgstr "entreprise"
+msgstr ""
 
 #. module: storage_image
 #. openerp-web
@@ -46,17 +46,17 @@ msgstr ""
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__create_uid
 msgid "Created by"
-msgstr "Créé par"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__create_date
 msgid "Created on"
-msgstr "Créé le"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__data
 msgid "Data"
-msgstr "Donnés"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,help:storage_image.field_storage_image__data
@@ -67,7 +67,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image.field_image_relation_abstract__display_name
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__display_name
 msgid "Display Name"
-msgstr "Nom d'affichage"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__extension
@@ -94,7 +94,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__file_type
 #: model:ir.model.fields,field_description:storage_image.field_storage_thumbnail__file_type
 msgid "File Type"
-msgstr "Type de fichier"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__filename
@@ -148,17 +148,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image.field_image_relation_abstract____last_update
 #: model:ir.model.fields,field_description:storage_image.field_storage_image____last_update
 msgid "Last Modified on"
-msgstr "Dernière modification le"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__write_uid
 msgid "Last Updated by"
-msgstr "Dernière mise à jour par"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__write_date
 msgid "Last Updated on"
-msgstr "Dernière mise à jour le"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_image_relation_abstract__image_url
@@ -176,7 +176,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__name
 #: model_terms:ir.ui.view,arch_db:storage_image.storage_image_view_form
 msgid "Name"
-msgstr "Nom"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__relative_path
@@ -191,7 +191,7 @@ msgstr ""
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_image_relation_abstract__sequence
 msgid "Sequence"
-msgstr "Séquence"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__slug
@@ -211,7 +211,7 @@ msgstr ""
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__backend_id
 msgid "Storage"
-msgstr "Espace de rangement"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model,name:storage_image.model_storage_file
