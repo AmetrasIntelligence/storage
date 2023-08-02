@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_file/i18n/storage_file.pot\n"
 "X-Crowdin-File-ID: 6522\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:07\n"
+"PO-Revision-Date: 2023-08-02 09:49\n"
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__active
 msgid "Active"
-msgstr "Actif"
+msgstr ""
 
 #. module: storage_file
 #: model_terms:ir.ui.view,arch_db:storage_file.storage_backend_view_form
@@ -51,22 +51,22 @@ msgstr ""
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__company_id
 msgid "Company"
-msgstr "entreprise"
+msgstr ""
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__create_uid
 msgid "Created by"
-msgstr "Créé par"
+msgstr ""
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__create_date
 msgid "Created on"
-msgstr "Créé le"
+msgstr ""
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__data
 msgid "Data"
-msgstr "Donnés"
+msgstr ""
 
 #. module: storage_file
 #: model:ir.model.fields,help:storage_file.field_storage_file__data
@@ -83,7 +83,7 @@ msgstr ""
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__display_name
 msgid "Display Name"
-msgstr "Nom d'affichage"
+msgstr ""
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__extension
@@ -112,7 +112,7 @@ msgstr ""
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__file_type
 msgid "File Type"
-msgstr "Type de fichier"
+msgstr ""
 
 #. module: storage_file
 #: code:addons/storage_file/models/storage_file.py:0
@@ -158,17 +158,17 @@ msgstr ""
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file____last_update
 msgid "Last Modified on"
-msgstr "Dernière modification le"
+msgstr ""
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__write_uid
 msgid "Last Updated by"
-msgstr "Dernière mise à jour par"
+msgstr ""
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__write_date
 msgid "Last Updated on"
-msgstr "Dernière mise à jour le"
+msgstr ""
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__mimetype
@@ -178,7 +178,7 @@ msgstr ""
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__name
 msgid "Name"
-msgstr "Nom"
+msgstr ""
 
 #. module: storage_file
 #: model:ir.model.fields.selection,name:storage_file.selection__storage_backend__filename_strategy__name_with_id
@@ -213,7 +213,7 @@ msgstr ""
 #. module: storage_file
 #: model:ir.model,name:storage_file.model_ir_actions_report
 msgid "Report Action"
-msgstr "Signaler une action"
+msgstr ""
 
 #. module: storage_file
 #: model:ir.model.fields.selection,name:storage_file.selection__storage_backend__filename_strategy__hash
@@ -245,7 +245,7 @@ msgstr ""
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__backend_id
 msgid "Storage"
-msgstr "Espace de rangement"
+msgstr ""
 
 #. module: storage_file
 #: model:ir.model,name:storage_file.model_storage_backend
