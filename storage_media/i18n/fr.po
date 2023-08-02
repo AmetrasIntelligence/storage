@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_media/i18n/storage_media.pot\n"
 "X-Crowdin-File-ID: 6564\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:06\n"
+"PO-Revision-Date: 2023-08-02 09:49\n"
 
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__active
 msgid "Active"
-msgstr "Actif"
+msgstr ""
 
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__checksum
@@ -34,24 +34,24 @@ msgstr ""
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__company_id
 msgid "Company"
-msgstr "entreprise"
+msgstr ""
 
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__create_uid
 #: model:ir.model.fields,field_description:storage_media.field_storage_media_type__create_uid
 msgid "Created by"
-msgstr "Créé par"
+msgstr ""
 
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__create_date
 #: model:ir.model.fields,field_description:storage_media.field_storage_media_type__create_date
 msgid "Created on"
-msgstr "Créé le"
+msgstr ""
 
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__data
 msgid "Data"
-msgstr "Donnés"
+msgstr ""
 
 #. module: storage_media
 #: model:ir.model.fields,help:storage_media.field_storage_media__data
@@ -62,7 +62,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__display_name
 #: model:ir.model.fields,field_description:storage_media.field_storage_media_type__display_name
 msgid "Display Name"
-msgstr "Nom d'affichage"
+msgstr ""
 
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__extension
@@ -85,7 +85,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__file_type
 #: model:ir.model.fields,field_description:storage_media.field_storage_thumbnail__file_type
 msgid "File Type"
-msgstr "Type de fichier"
+msgstr ""
 
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__filename
@@ -112,19 +112,19 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_media.field_storage_media____last_update
 #: model:ir.model.fields,field_description:storage_media.field_storage_media_type____last_update
 msgid "Last Modified on"
-msgstr "Dernière modification le"
+msgstr ""
 
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__write_uid
 #: model:ir.model.fields,field_description:storage_media.field_storage_media_type__write_uid
 msgid "Last Updated by"
-msgstr "Dernière mise à jour par"
+msgstr ""
 
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__write_date
 #: model:ir.model.fields,field_description:storage_media.field_storage_media_type__write_date
 msgid "Last Updated on"
-msgstr "Dernière mise à jour le"
+msgstr ""
 
 #. module: storage_media
 #: model:ir.model.fields.selection,name:storage_media.selection__storage_file__file_type__media
@@ -145,7 +145,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__name
 #: model:ir.model.fields,field_description:storage_media.field_storage_media_type__name
 msgid "Name"
-msgstr "Nom"
+msgstr ""
 
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__relative_path
@@ -170,7 +170,7 @@ msgstr ""
 #. module: storage_media
 #: model:ir.model.fields,field_description:storage_media.field_storage_media__backend_id
 msgid "Storage"
-msgstr "Espace de rangement"
+msgstr ""
 
 #. module: storage_media
 #: model:ir.model,name:storage_media.model_storage_file
