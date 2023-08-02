@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_backend_sftp/i18n/storage_backend_sftp.pot\n"
 "X-Crowdin-File-ID: 6514\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-11-07 18:04\n"
+"PO-Revision-Date: 2023-08-02 09:49\n"
 
 #. module: storage_backend_sftp
 #: model:ir.model.fields,field_description:storage_backend_sftp.field_storage_backend__backend_type
 msgid "Backend Type"
-msgstr "Backend Typ"
+msgstr ""
 
 #. module: storage_backend_sftp
 #: model:ir.model.fields,help:storage_backend_sftp.field_storage_backend__sftp_ssh_private_key
@@ -34,7 +34,7 @@ msgstr ""
 #. module: storage_backend_sftp
 #: model:ir.model.fields.selection,name:storage_backend_sftp.selection__storage_backend__sftp_auth_method__pwd
 msgid "Password"
-msgstr "Passwort"
+msgstr ""
 
 #. module: storage_backend_sftp
 #: model:ir.model.fields.selection,name:storage_backend_sftp.selection__storage_backend__sftp_auth_method__ssh_key
@@ -65,12 +65,12 @@ msgstr ""
 #. module: storage_backend_sftp
 #: model:ir.model.fields,field_description:storage_backend_sftp.field_storage_backend__sftp_password
 msgid "SFTP Password"
-msgstr "SFTP-Passwort"
+msgstr ""
 
 #. module: storage_backend_sftp
 #: model:ir.model.fields,field_description:storage_backend_sftp.field_storage_backend__sftp_port
 msgid "SFTP Port"
-msgstr "SFTP-Port"
+msgstr ""
 
 #. module: storage_backend_sftp
 #: model:ir.model.fields,field_description:storage_backend_sftp.field_storage_backend__sftp_ssh_private_key
