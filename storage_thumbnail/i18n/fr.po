@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_thumbnail/i18n/storage_thumbnail.pot\n"
 "X-Crowdin-File-ID: 6582\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:06\n"
+"PO-Revision-Date: 2023-08-02 09:49\n"
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__active
 msgid "Active"
-msgstr "Actif"
+msgstr ""
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__checksum
@@ -29,22 +29,22 @@ msgstr ""
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__company_id
 msgid "Company"
-msgstr "entreprise"
+msgstr ""
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__create_uid
 msgid "Created by"
-msgstr "Créé par"
+msgstr ""
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__create_date
 msgid "Created on"
-msgstr "Créé le"
+msgstr ""
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__data
 msgid "Data"
-msgstr "Donnés"
+msgstr ""
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,help:storage_thumbnail.field_storage_thumbnail__data
@@ -55,7 +55,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__display_name
 #: model:ir.model.fields,field_description:storage_thumbnail.field_thumbnail_mixin__display_name
 msgid "Display Name"
-msgstr "Nom d'affichage"
+msgstr ""
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__extension
@@ -76,7 +76,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_file__file_type
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__file_type
 msgid "File Type"
-msgstr "Type de fichier"
+msgstr ""
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__filename
@@ -105,17 +105,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail____last_update
 #: model:ir.model.fields,field_description:storage_thumbnail.field_thumbnail_mixin____last_update
 msgid "Last Modified on"
-msgstr "Dernière modification le"
+msgstr ""
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__write_uid
 msgid "Last Updated by"
-msgstr "Dernière mise à jour par"
+msgstr ""
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__write_date
 msgid "Last Updated on"
-msgstr "Dernière mise à jour le"
+msgstr ""
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_thumbnail_mixin__image_medium_url
@@ -130,7 +130,7 @@ msgstr ""
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__name
 msgid "Name"
-msgstr "Nom"
+msgstr ""
 
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__relative_path
@@ -175,7 +175,7 @@ msgstr ""
 #. module: storage_thumbnail
 #: model:ir.model.fields,field_description:storage_thumbnail.field_storage_thumbnail__backend_id
 msgid "Storage"
-msgstr "Espace de rangement"
+msgstr ""
 
 #. module: storage_thumbnail
 #: model:ir.model,name:storage_thumbnail.model_storage_file
