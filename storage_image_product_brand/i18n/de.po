@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_image_product_brand/i18n/storage_image_product_brand.pot\n"
 "X-Crowdin-File-ID: 6542\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-01-05 11:43\n"
+"PO-Revision-Date: 2023-08-02 09:49\n"
 
 #. module: storage_image_product_brand
 #: model_terms:ir.ui.view,arch_db:storage_image_product_brand.product_brand_image_relation_form_view
 msgid "Association"
-msgstr "Verband"
+msgstr ""
 
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand_image_relation__brand_id
@@ -29,17 +29,17 @@ msgstr ""
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand_image_relation__create_uid
 msgid "Created by"
-msgstr "Erstellt von"
+msgstr ""
 
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand_image_relation__create_date
 msgid "Created on"
-msgstr "Erstellt am"
+msgstr ""
 
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand_image_relation__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr ""
 
 #. module: storage_image_product_brand
 #: model:ir.model.fields,help:storage_image_product_brand.field_product_brand__image_medium_url
@@ -51,7 +51,7 @@ msgstr ""
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand_image_relation__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand_image_relation__image_id
@@ -62,22 +62,22 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand__image_ids
 #: model_terms:ir.ui.view,arch_db:storage_image_product_brand.product_brand_form_view
 msgid "Images"
-msgstr "Bilder"
+msgstr ""
 
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand_image_relation____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt geändert am"
+msgstr ""
 
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand_image_relation__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt aktualisiert von"
+msgstr ""
 
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand_image_relation__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt aktualisiert am"
+msgstr ""
 
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand__image_medium_url
@@ -88,7 +88,7 @@ msgstr ""
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand_image_relation__image_name
 msgid "Name"
-msgstr "Name"
+msgstr ""
 
 #. module: storage_image_product_brand
 #: model:ir.model,name:storage_image_product_brand.model_product_brand
@@ -103,7 +103,7 @@ msgstr ""
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand_image_relation__sequence
 msgid "Sequence"
-msgstr "Sequenz"
+msgstr ""
 
 #. module: storage_image_product_brand
 #: model:ir.model.fields,field_description:storage_image_product_brand.field_product_brand__image_small_url
