@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_image/i18n/storage_image.pot\n"
 "X-Crowdin-File-ID: 6530\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-05-15 15:31\n"
+"PO-Revision-Date: 2023-08-02 09:49\n"
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__active
 msgid "Active"
-msgstr "Aktiv"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__alt_name
@@ -34,7 +34,7 @@ msgstr ""
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__company_id
 msgid "Company"
-msgstr "Unternehmen"
+msgstr ""
 
 #. module: storage_image
 #. openerp-web
@@ -46,12 +46,12 @@ msgstr ""
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__create_uid
 msgid "Created by"
-msgstr "Erstellt von"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__create_date
 msgid "Created on"
-msgstr "Erstellt am"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__data
@@ -67,7 +67,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image.field_image_relation_abstract__display_name
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__extension
@@ -77,7 +77,7 @@ msgstr ""
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__file_id
 msgid "File"
-msgstr "Datei"
+msgstr ""
 
 #. module: storage_image
 #: model_terms:ir.ui.view,arch_db:storage_image.storage_image_view_form
@@ -118,7 +118,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image.field_image_relation_abstract__id
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: storage_image
 #. openerp-web
@@ -148,17 +148,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image.field_image_relation_abstract____last_update
 #: model:ir.model.fields,field_description:storage_image.field_storage_image____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt geändert am"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt aktualisiert von"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt aktualisiert am"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_image_relation_abstract__image_url
@@ -176,7 +176,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__name
 #: model_terms:ir.ui.view,arch_db:storage_image.storage_image_view_form
 msgid "Name"
-msgstr "Name"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__relative_path
@@ -191,7 +191,7 @@ msgstr ""
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_image_relation_abstract__sequence
 msgid "Sequence"
-msgstr "Sequenz"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__slug
@@ -211,7 +211,7 @@ msgstr ""
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__backend_id
 msgid "Storage"
-msgstr "Lagerung"
+msgstr ""
 
 #. module: storage_image
 #: model:ir.model,name:storage_image.model_storage_file
@@ -246,5 +246,5 @@ msgstr ""
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__url
 msgid "Url"
-msgstr "Url"
+msgstr ""
 
