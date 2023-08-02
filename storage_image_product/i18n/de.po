@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_image_product/i18n/storage_image_product.pot\n"
 "X-Crowdin-File-ID: 6536\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-01-05 11:43\n"
+"PO-Revision-Date: 2023-08-02 09:49\n"
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_image_tag__apply_on
 msgid "Apply On"
-msgstr "Anwenden auf"
+msgstr ""
 
 #. module: storage_image_product
 #: model_terms:ir.ui.view,arch_db:storage_image_product.product_category_image_relation_form
@@ -30,7 +30,7 @@ msgstr "Verband"
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_product_image_relation__attribute_value_ids
 msgid "Attributes"
-msgstr "Attribute"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_product_image_relation__available_attribute_value_ids
@@ -41,13 +41,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image_product.field_storage_image__category_relation_ids
 #: model_terms:ir.ui.view,arch_db:storage_image_product.storage_image_view_form
 msgid "Categories"
-msgstr "Kategorien"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_category_image_relation__category_id
 #: model:ir.model.fields.selection,name:storage_image_product.selection__image_tag__apply_on__category
 msgid "Category"
-msgstr "Kategorie"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model,name:storage_image_product.model_category_image_relation
@@ -59,21 +59,21 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image_product.field_image_tag__create_uid
 #: model:ir.model.fields,field_description:storage_image_product.field_product_image_relation__create_uid
 msgid "Created by"
-msgstr "Erstellt von"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_category_image_relation__create_date
 #: model:ir.model.fields,field_description:storage_image_product.field_image_tag__create_date
 #: model:ir.model.fields,field_description:storage_image_product.field_product_image_relation__create_date
 msgid "Created on"
-msgstr "Erstellt am"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_category_image_relation__display_name
 #: model:ir.model.fields,field_description:storage_image_product.field_image_tag__display_name
 #: model:ir.model.fields,field_description:storage_image_product.field_product_image_relation__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model.fields,help:storage_image_product.field_category_image_relation__image_url
@@ -92,7 +92,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image_product.field_image_tag__id
 #: model:ir.model.fields,field_description:storage_image_product.field_product_image_relation__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: storage_image_product
 #: model_terms:ir.ui.view,arch_db:storage_image_product.product_normal_form_view
@@ -129,21 +129,21 @@ msgstr "Bilder"
 #: model:ir.model.fields,field_description:storage_image_product.field_image_tag____last_update
 #: model:ir.model.fields,field_description:storage_image_product.field_product_image_relation____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt geändert am"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_category_image_relation__write_uid
 #: model:ir.model.fields,field_description:storage_image_product.field_image_tag__write_uid
 #: model:ir.model.fields,field_description:storage_image_product.field_product_image_relation__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt aktualisiert von"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_category_image_relation__write_date
 #: model:ir.model.fields,field_description:storage_image_product.field_image_tag__write_date
 #: model:ir.model.fields,field_description:storage_image_product.field_product_image_relation__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt aktualisiert am"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_product_product__main_image_id
@@ -174,18 +174,18 @@ msgstr ""
 #: model:ir.model.fields,field_description:storage_image_product.field_image_tag__name
 #: model:ir.model.fields,field_description:storage_image_product.field_product_image_relation__image_name
 msgid "Name"
-msgstr "Name"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model,name:storage_image_product.model_product_product
 #: model:ir.model.fields.selection,name:storage_image_product.selection__image_tag__apply_on__product
 msgid "Product"
-msgstr "Produkt"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model,name:storage_image_product.model_product_category
 msgid "Product Category"
-msgstr "Produktkategorie"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model,name:storage_image_product.model_product_image_relation
@@ -195,24 +195,24 @@ msgstr ""
 #. module: storage_image_product
 #: model:ir.model,name:storage_image_product.model_product_template
 msgid "Product Template"
-msgstr "Produktvorlage"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_product_image_relation__product_tmpl_id
 msgid "Product Tmpl"
-msgstr "Produktvorlage"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_storage_image__product_relation_ids
 #: model_terms:ir.ui.view,arch_db:storage_image_product.storage_image_view_form
 msgid "Products"
-msgstr "Produkte"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_category_image_relation__sequence
 #: model:ir.model.fields,field_description:storage_image_product.field_product_image_relation__sequence
 msgid "Sequence"
-msgstr "Sequenz"
+msgstr ""
 
 #. module: storage_image_product
 #: model:ir.model,name:storage_image_product.model_storage_image
