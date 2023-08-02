@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_media_product/i18n/storage_media_product.pot\n"
 "X-Crowdin-File-ID: 6570\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:06\n"
+"PO-Revision-Date: 2023-08-02 09:49\n"
 
 #. module: storage_media_product
 #: model_terms:ir.ui.view,arch_db:storage_media_product.product_media_relation_form
@@ -35,17 +35,17 @@ msgstr ""
 #. module: storage_media_product
 #: model:ir.model.fields,field_description:storage_media_product.field_product_media_relation__create_uid
 msgid "Created by"
-msgstr "Créé par"
+msgstr ""
 
 #. module: storage_media_product
 #: model:ir.model.fields,field_description:storage_media_product.field_product_media_relation__create_date
 msgid "Created on"
-msgstr "Créé le"
+msgstr ""
 
 #. module: storage_media_product
 #: model:ir.model.fields,field_description:storage_media_product.field_product_media_relation__display_name
 msgid "Display Name"
-msgstr "Nom d'affichage"
+msgstr ""
 
 #. module: storage_media_product
 #: model:ir.model.fields,help:storage_media_product.field_product_media_relation__url
@@ -60,17 +60,17 @@ msgstr ""
 #. module: storage_media_product
 #: model:ir.model.fields,field_description:storage_media_product.field_product_media_relation____last_update
 msgid "Last Modified on"
-msgstr "Dernière modification le"
+msgstr ""
 
 #. module: storage_media_product
 #: model:ir.model.fields,field_description:storage_media_product.field_product_media_relation__write_uid
 msgid "Last Updated by"
-msgstr "Dernière mise à jour par"
+msgstr ""
 
 #. module: storage_media_product
 #: model:ir.model.fields,field_description:storage_media_product.field_product_media_relation__write_date
 msgid "Last Updated on"
-msgstr "Dernière mise à jour le"
+msgstr ""
 
 #. module: storage_media_product
 #: model:ir.model.fields,field_description:storage_media_product.field_product_category__media_ids
@@ -91,17 +91,17 @@ msgstr ""
 #. module: storage_media_product
 #: model:ir.model.fields,field_description:storage_media_product.field_product_media_relation__name
 msgid "Name"
-msgstr "Nom"
+msgstr ""
 
 #. module: storage_media_product
 #: model:ir.model,name:storage_media_product.model_product_product
 msgid "Product"
-msgstr "Produit"
+msgstr ""
 
 #. module: storage_media_product
 #: model:ir.model,name:storage_media_product.model_product_category
 msgid "Product Category"
-msgstr "catégorie de produit"
+msgstr ""
 
 #. module: storage_media_product
 #: model:ir.model,name:storage_media_product.model_product_template
@@ -111,7 +111,7 @@ msgstr ""
 #. module: storage_media_product
 #: model:ir.model.fields,field_description:storage_media_product.field_product_media_relation__product_tmpl_id
 msgid "Product Tmpl"
-msgstr "Modèle de produit"
+msgstr ""
 
 #. module: storage_media_product
 #: model:ir.model,name:storage_media_product.model_product_media_relation
@@ -121,7 +121,7 @@ msgstr ""
 #. module: storage_media_product
 #: model:ir.model.fields,field_description:storage_media_product.field_product_media_relation__sequence
 msgid "Sequence"
-msgstr "Séquence"
+msgstr ""
 
 #. module: storage_media_product
 #: model:ir.model.fields,field_description:storage_media_product.field_product_media_relation__url
