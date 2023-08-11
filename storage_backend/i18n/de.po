@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_backend/i18n/storage_backend.pot\n"
 "X-Crowdin-File-ID: 6498\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-11 09:01\n"
+"PO-Revision-Date: 2023-08-11 10:40\n"
 
 #. module: storage_backend
 #: code:addons/storage_backend/components/filesystem_adapter.py:0
@@ -52,12 +52,12 @@ msgstr ""
 #. module: storage_backend
 #: model:ir.model.fields,field_description:storage_backend.field_storage_backend__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Erstellt von"
 
 #. module: storage_backend
 #: model:ir.model.fields,field_description:storage_backend.field_storage_backend__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Erstellt am"
 
 #. module: storage_backend
 #: model:ir.model.fields,field_description:storage_backend.field_storage_backend__directory_path
@@ -103,7 +103,7 @@ msgstr ""
 #. module: storage_backend
 #: model:ir.model.fields,field_description:storage_backend.field_storage_backend____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Zuletzt geändert am"
 
 #. module: storage_backend
 #: model:ir.model.fields,field_description:storage_backend.field_storage_backend__write_uid
