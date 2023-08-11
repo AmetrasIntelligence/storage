@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_file/i18n/storage_file.pot\n"
 "X-Crowdin-File-ID: 6522\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-11 09:01\n"
+"PO-Revision-Date: 2023-08-11 10:40\n"
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__active
@@ -56,12 +56,12 @@ msgstr ""
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Erstellt von"
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Erstellt am"
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__data
@@ -158,7 +158,7 @@ msgstr ""
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Zuletzt geändert am"
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__write_uid
