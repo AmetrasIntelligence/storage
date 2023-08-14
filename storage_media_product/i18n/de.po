@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_media_product/i18n/storage_media_product.pot\n"
 "X-Crowdin-File-ID: 6570\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-14 13:51\n"
+"PO-Revision-Date: 2023-08-14 16:30\n"
 
 #. module: storage_media_product
 #: model_terms:ir.ui.view,arch_db:storage_media_product.product_media_relation_form
@@ -45,7 +45,7 @@ msgstr "Erstellt am"
 #. module: storage_media_product
 #: model:ir.model.fields,field_description:storage_media_product.field_product_media_relation__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Anzeigename"
 
 #. module: storage_media_product
 #: model:ir.model.fields,help:storage_media_product.field_product_media_relation__url
