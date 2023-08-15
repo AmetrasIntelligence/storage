@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_image/i18n/storage_image.pot\n"
 "X-Crowdin-File-ID: 6530\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-15 10:59\n"
+"PO-Revision-Date: 2023-08-15 12:21\n"
 
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__active
@@ -34,7 +34,7 @@ msgstr ""
 #. module: storage_image
 #: model:ir.model.fields,field_description:storage_image.field_storage_image__company_id
 msgid "Company"
-msgstr ""
+msgstr "Unternehmen"
 
 #. module: storage_image
 #. openerp-web
