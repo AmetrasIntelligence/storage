@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_file/i18n/storage_file.pot\n"
 "X-Crowdin-File-ID: 6522\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-15 12:21\n"
+"PO-Revision-Date: 2023-08-16 10:18\n"
 
 #. module: storage_file
 #: model:ir.model.fields,field_description:storage_file.field_storage_file__active
@@ -213,7 +213,7 @@ msgstr ""
 #. module: storage_file
 #: model:ir.model,name:storage_file.model_ir_actions_report
 msgid "Report Action"
-msgstr ""
+msgstr "Berichtsaktion"
 
 #. module: storage_file
 #: model:ir.model.fields.selection,name:storage_file.selection__storage_backend__filename_strategy__hash
@@ -260,7 +260,7 @@ msgstr ""
 #. module: storage_file
 #: model:ir.model.fields,help:storage_file.field_storage_backend__filename_strategy
 msgid "Strategy to build the name of the file to be stored.\n"
-"Name and ID: will store the file with its name + its id.\n"
+"Name and ID: will store the file with its name  its id.\n"
 "SHA Hash: will use the hash of the file as filename (same method as the native attachment storage)"
 msgstr ""
 
