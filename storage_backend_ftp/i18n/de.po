@@ -14,11 +14,16 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_backend_ftp/i18n/storage_backend_ftp.pot\n"
 "X-Crowdin-File-ID: 6502\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 10:18\n"
+"PO-Revision-Date: 2023-08-24 14:49\n"
 
 #. module: storage_backend_ftp
 #: model:ir.model.fields,field_description:storage_backend_ftp.field_storage_backend__backend_type
 msgid "Backend Type"
+msgstr ""
+
+#. module: storage_backend_ftp
+#: model:ir.model.fields.selection,name:storage_backend_ftp.selection__storage_backend__ftp_encryption__tls_explicit
+msgid "Explicit FTP over TLS"
 msgstr ""
 
 #. module: storage_backend_ftp
@@ -59,13 +64,13 @@ msgid "FTP Port"
 msgstr ""
 
 #. module: storage_backend_ftp
-#: model:ir.model.fields.selection,name:storage_backend_ftp.selection__storage_backend__ftp_encryption__tls
-msgid "FTP over TLS"
+#: model:ir.model.fields,field_description:storage_backend_ftp.field_storage_backend__ftp_security
+msgid "FTP security option"
 msgstr ""
 
 #. module: storage_backend_ftp
-#: model:ir.model.fields,field_description:storage_backend_ftp.field_storage_backend__ftp_security
-msgid "FTP security option"
+#: model:ir.model.fields.selection,name:storage_backend_ftp.selection__storage_backend__ftp_encryption__tls
+msgid "Implicit FTP over TLS"
 msgstr ""
 
 #. module: storage_backend_ftp
