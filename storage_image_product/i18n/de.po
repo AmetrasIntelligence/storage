@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.storage] 13.0/storage_image_product/i18n/storage_image_product.pot\n"
 "X-Crowdin-File-ID: 6536\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-21 12:27\n"
+"PO-Revision-Date: 2023-08-24 10:36\n"
 
 #. module: storage_image_product
 #: model:ir.model.fields,field_description:storage_image_product.field_image_tag__apply_on
@@ -180,7 +180,7 @@ msgstr "Name"
 #: model:ir.model,name:storage_image_product.model_product_product
 #: model:ir.model.fields.selection,name:storage_image_product.selection__image_tag__apply_on__product
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 #. module: storage_image_product
 #: model:ir.model,name:storage_image_product.model_product_category
