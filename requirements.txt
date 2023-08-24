@@ -4,4 +4,6 @@ paramiko
 pyftpdlib
 python-magic
 python_slugify
+requests-mock
 validators
+vcrpy-unittest
