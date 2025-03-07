@@ -47,16 +47,32 @@ def load_ssh_key(ssh_key_buffer):
 
 @contextmanager
 def sftp(backend):
-    transport = paramiko.Transport((backend.sftp_server, backend.sftp_port))
-    if backend.sftp_auth_method == "pwd":
-        transport.connect(username=backend.sftp_login, password=backend.sftp_password)
-    elif backend.sftp_auth_method == "ssh_key":
-        ssh_key_buffer = StringIO(backend.sftp_ssh_private_key)
-        private_key = load_ssh_key(ssh_key_buffer)
-        transport.connect(username=backend.sftp_login, pkey=private_key)
-    client = paramiko.SFTPClient.from_transport(transport)
-    yield client
-    transport.close()
+    transport = None
+    client = None
+    try:
+        transport = paramiko.Transport((backend.sftp_server, backend.sftp_port))
+        if backend.sftp_auth_method == "pwd":
+            transport.connect(
+                username=backend.sftp_login, password=backend.sftp_password
+            )
+        elif backend.sftp_auth_method == "ssh_key":
+            ssh_key_buffer = StringIO(backend.sftp_ssh_private_key)
+            private_key = load_ssh_key(ssh_key_buffer)
+            transport.connect(username=backend.sftp_login, pkey=private_key)
+
+        client = paramiko.SFTPClient.from_transport(transport)
+        yield client
+    finally:
+        try:
+            if client:
+                client.close()
+        except Exception as e:
+            _logger.warning("Failed to close SFTP client: %s", str(e))
+        try:
+            if transport:
+                transport.close()
+        except Exception as e:
+            _logger.warning("Failed to close SFTP transport: %s", str(e))
 
 
 class SFTPStorageBackendAdapter(Component):
